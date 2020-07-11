@@ -2,6 +2,12 @@
 ## Overview:
 This is a program written to grade the exams for many classes
 ## Technologies
-* This code is written in **Python version 3.7**
-* **Numpy version 1.17.3**
-* **Pandas version 1.0.3**
+* This code is written in **[Python](https://www.python.org/) version 3.7**
+* **[Numpy](https://numpy.org/) version 1.17.3**
+* **[Pandas](https://pandas.pydata.org/) version 1.0.3**
+## Running
+Extract the zip file
+Save your data files inside the folder `Data Files`
+Run the program `lastname_firstname_grade_the_exams.py`
+Input the name your data file (ie "class1" for class1.txt)
+The result should be inside folder `Output`
